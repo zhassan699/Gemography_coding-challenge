@@ -1,7 +1,8 @@
 # Gemography_coding-challenge
 
-i didn't really understand the 
-##For every language, you need to calculate the attributes below point_down:
+i didn't really understand the :
+
+For every language, you need to calculate the attributes below point_down:
 
     Number of repos using this language
     The list of repos using the language
